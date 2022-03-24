@@ -1,0 +1,15 @@
+E:\Base_Camp\LogicBuilders\Anagram\bin\Debug\net6.0\Anagram.exe
+E:\Base_Camp\LogicBuilders\Anagram\bin\Debug\net6.0\Anagram.deps.json
+E:\Base_Camp\LogicBuilders\Anagram\bin\Debug\net6.0\Anagram.runtimeconfig.json
+E:\Base_Camp\LogicBuilders\Anagram\bin\Debug\net6.0\Anagram.dll
+E:\Base_Camp\LogicBuilders\Anagram\bin\Debug\net6.0\Anagram.pdb
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\Anagram.csproj.AssemblyReference.cache
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfoInputs.cache
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\Anagram.AssemblyInfo.cs
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\Anagram.csproj.CoreCompileInputs.cache
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\Anagram.dll
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\refint\Anagram.dll
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\Anagram.pdb
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\Anagram.genruntimeconfig.cache
+E:\Base_Camp\LogicBuilders\Anagram\obj\Debug\net6.0\ref\Anagram.dll

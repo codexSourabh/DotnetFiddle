@@ -1,0 +1,15 @@
+E:\Base_Camp\LogicBuilders\Palindrome\bin\Debug\net6.0\Palindrome.exe
+E:\Base_Camp\LogicBuilders\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+E:\Base_Camp\LogicBuilders\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+E:\Base_Camp\LogicBuilders\Palindrome\bin\Debug\net6.0\Palindrome.dll
+E:\Base_Camp\LogicBuilders\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\Palindrome.csproj.AssemblyReference.cache
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\Palindrome.dll
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\refint\Palindrome.dll
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
+E:\Base_Camp\LogicBuilders\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll
