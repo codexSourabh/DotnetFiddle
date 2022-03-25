@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anagram", "Anagram\Anagram.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{EB4BCEA4-F4A8-4185-A7CA-2B6B0337D27B}"
 EndProject
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{6D66F8E9-1AA5-478C-9423-074D2CD3DE4B}"
+=======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong", "Armstrong\Armstrong.csproj", "{2AC3DDE3-6271-4F90-BA0E-6CB22A0EEF09}"
+>>>>>>> a7f9bc0a71d3c37c91820f2f7dd522e67758eb60
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +27,17 @@ Global
 		{EB4BCEA4-F4A8-4185-A7CA-2B6B0337D27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB4BCEA4-F4A8-4185-A7CA-2B6B0337D27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB4BCEA4-F4A8-4185-A7CA-2B6B0337D27B}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+		{6D66F8E9-1AA5-478C-9423-074D2CD3DE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D66F8E9-1AA5-478C-9423-074D2CD3DE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D66F8E9-1AA5-478C-9423-074D2CD3DE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D66F8E9-1AA5-478C-9423-074D2CD3DE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
 		{2AC3DDE3-6271-4F90-BA0E-6CB22A0EEF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2AC3DDE3-6271-4F90-BA0E-6CB22A0EEF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AC3DDE3-6271-4F90-BA0E-6CB22A0EEF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AC3DDE3-6271-4F90-BA0E-6CB22A0EEF09}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> a7f9bc0a71d3c37c91820f2f7dd522e67758eb60
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
