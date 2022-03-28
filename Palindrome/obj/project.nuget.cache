@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fosRFMlrQKNLqMjGM/gxn0UUD/OzB2WTXCYQtKooU5VmKxOhzR3T0JbQc2gQJ40upe6PAdMcBXdLK9sh0l5EeQ==",
+  "dgSpecHash": "JVBcK4+HqApk3l863aDXVlEyTOhCqlgptSabTKXJSiJQbEajXHAR1C403WJ+yu+S9nd5At94kZEsDegLEQb7Pw==",
   "success": true,
-  "projectFilePath": "E:\\Base_Camp\\LogicBuilders\\Palindrome\\Palindrome.csproj",
+  "projectFilePath": "E:\\BaseCamp\\LogicBuilder\\Palindrome\\Palindrome.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

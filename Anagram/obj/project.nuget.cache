@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xSYdmHXm9J+9s2f6NEBO6Xhhim92b0C8z7HkB6r05lz8K2JK1RkG8VL20Z8HRnUnr/kVfiCCzihb723971HyqA==",
+  "dgSpecHash": "5lyiTI+cTFJguLNvuLDerZLmx5ptYyaO6B2ktS0iXmnCsGAYXirq9XcEO9kJCzzzb7hbk/xais1li80khUdBeg==",
   "success": true,
-  "projectFilePath": "E:\\Base_Camp\\LogicBuilders\\Anagram\\Anagram.csproj",
+  "projectFilePath": "E:\\BaseCamp\\LogicBuilder\\Anagram\\Anagram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

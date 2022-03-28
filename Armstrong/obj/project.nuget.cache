@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hqrCIIzPqGw6O6vSnRw2i2CDt/9SNRO5ngUqqjeSo0HaJypi11i3Dah7IvgXiTRO45YkEjrffq51mnvUePeiHQ==",
+  "dgSpecHash": "3EGuuOWVjqRlxKN0fFiGoy/Fq+8iTVGo4vlnOPzxZPkgY6V+0fuggST8FEB1+avyii8PFb2aJJc42Q1avGm5dA==",
   "success": true,
-  "projectFilePath": "E:\\Base_Camp\\LogicBuilders\\Armstrong\\Armstrong.csproj",
+  "projectFilePath": "E:\\BaseCamp\\LogicBuilder\\Armstrong\\Armstrong.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

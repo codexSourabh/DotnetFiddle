@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Base_Camp\\LogicBuilders\\Anagram\\Anagram.csproj",
+      "projectUniqueName": "E:\\BaseCamp\\LogicBuilder\\Anagram\\Anagram.csproj",
       "projectName": "Anagram",
-      "projectPath": "E:\\Base_Camp\\LogicBuilders\\Anagram\\Anagram.csproj",
+      "projectPath": "E:\\BaseCamp\\LogicBuilder\\Anagram\\Anagram.csproj",
       "packagesPath": "C:\\Users\\lokha\\.nuget\\packages\\",
-      "outputPath": "E:\\Base_Camp\\LogicBuilders\\Anagram\\obj\\",
+      "outputPath": "E:\\BaseCamp\\LogicBuilder\\Anagram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lokha\\AppData\\Roaming\\NuGet\\NuGet.Config",
